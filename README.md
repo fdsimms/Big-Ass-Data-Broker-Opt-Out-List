@@ -73,11 +73,6 @@ Find your information here: [https://www.infotracer.com/](https://www.infotracer
 
 You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
-### ☠ InstantCheckmate
-Find and remove your information here:
-
-[https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
-
 ### ☠ 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
 Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](mailto:info@mylife.com) or [removalrequests@mylife.com](mailto:removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
