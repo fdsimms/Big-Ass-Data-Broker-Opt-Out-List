@@ -130,9 +130,6 @@ Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find 
 ### SpyFly
 Look for your data here: [https://www.spyfly.com](https://www.spyfly.com. Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. As always, we recommend not providing information any service with any information it does not already have.
 
-### TruePeopleSearch
-Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
-
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Dataseal.io link, which is a paid product.
 
