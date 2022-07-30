@@ -159,9 +159,6 @@ You will need to provide a phone number and enter an opt-out code when you recei
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
 
-### � ZoomInfo
-Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
-
 ## Special Circumstances
 
 If you’re a victim of violent crime or identity theft, it’s often possible to opt out of information that others can’t opt out of. You may, however, need to provide court orders or other information. It may be worth checking more complete data broker lists which include those: [https://www.privacyrights.org/data-brokers](https://www.privacyrights.org/data-brokers) See this resource: [https://nnedv.org/mdocs-posts/people-searches-data-brokers/](https://nnedv.org/mdocs-posts/people-searches-data-brokers/).
