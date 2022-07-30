@@ -148,9 +148,6 @@ Find and remove your information at [https://www.usa-people-search.com/manage](h
 Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
 
-### US Search 
-Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
-
 ### Verecor
 Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
 
