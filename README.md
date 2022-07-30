@@ -26,17 +26,6 @@ Google further allows you to remove non-consensual or intimate personal images, 
 
 ## People Search Sites
 
-### ☠ Acxiom
-It is hard to find your own info for free, but you can opt out here:
-
-[https://isapps.acxiom.com/optout/optout.aspx#section8](https://isapps.acxiom.com/optout/optout.aspx#section8) (U.S.)
-
-[https://isapps.acxiom.com/optout/optout.aspx#section7](https://isapps.acxiom.com/optout/optout.aspx#section7) (non-U.S.)
-
-[https://isapps.acxiom.com/optout/optout.aspx](https://isapps.acxiom.com/optout/optout.aspx) (info)
-
-If you don’t have an email address, call (877) 774-2094 and follow the prompts.
-
 ### ☠ Advanced Background Checks
 
 Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
@@ -52,15 +41,6 @@ Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 ### 🎫 BackgroundAlert
 
 Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
-
-### ☠ BeenVerified
-Find your information and opt out here:
-
-[https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
-
-Opt out of property search here:
-
-[https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
 
 ### CheckPeople
 Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
@@ -78,14 +58,6 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
-
-### ☠ FamilyTreeNow
-Search for yourself and remove your information here:
-
-[https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
-
-### ☠ FastPeopleSearch
-Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### FreePeopleDirectory
 Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). 
@@ -106,9 +78,6 @@ Find and remove your information here:
 
 [https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
 
-### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
-
 ### ☠ 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
 Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](mailto:info@mylife.com) or [removalrequests@mylife.com](mailto:removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
@@ -121,9 +90,6 @@ Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/)
 
 ### PeopleByName
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
-
-### ☠ PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
 
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
@@ -183,9 +149,6 @@ Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoples
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Dataseal.io link, which is a paid product.
 
-### ☠ TruthFinder
-Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
-
 ### Unmask 
 Look for your data here: [https://unmask.com/](https://unmask.com/).
 Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
@@ -200,9 +163,6 @@ If your address is listed and you want it removed, enter the telephone number an
 
 ### US Search 
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
-
-### ☠ USPhoneBook
-Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
 Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
@@ -253,9 +213,6 @@ You can also opt out of targeted ads using cookies and similar technology at the
 
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
-
-### Get on the Do Not Call Registry
-[https://www.donotcall.gov/register/reg.aspx](https://www.donotcall.gov/register/reg.aspx)
 
 ## Paid options
 
